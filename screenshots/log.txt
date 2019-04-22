@@ -1,0 +1,25 @@
+2019-04-21 20:44:15.300 3095-3095/? I/546.activitysp: Not late-enabling -Xcheck:jni (already on)
+2019-04-21 20:44:15.557 3095-3095/? W/546.activitysp: Unexpected CPU variant for X86 using defaults: x86
+2019-04-21 20:44:16.544 3095-3095/edu.washington.lbc546.activityspy W/546.activitysp: JIT profile information will not be recorded: profile file does not exits.
+2019-04-21 20:44:16.549 3095-3095/edu.washington.lbc546.activityspy I/chatty: uid=10086(edu.washington.lbc546.activityspy) identical 10 lines
+2019-04-21 20:44:16.550 3095-3095/edu.washington.lbc546.activityspy W/546.activitysp: JIT profile information will not be recorded: profile file does not exits.
+2019-04-21 20:44:16.662 3095-3095/edu.washington.lbc546.activityspy I/InstantRun: starting instant run server: is main process
+2019-04-21 20:44:17.365 3095-3095/edu.washington.lbc546.activityspy I/MainActivity: onCreate fired, null
+2019-04-21 20:44:17.624 3095-3095/edu.washington.lbc546.activityspy W/546.activitysp: Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (light greylist, reflection)
+2019-04-21 20:44:17.626 3095-3095/edu.washington.lbc546.activityspy W/546.activitysp: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (light greylist, reflection)
+2019-04-21 20:44:17.883 3095-3095/edu.washington.lbc546.activityspy I/MainActivity: onStart event fired
+2019-04-21 20:44:17.908 3095-3095/edu.washington.lbc546.activityspy I/MainActivity: onResume event fired
+2019-04-21 20:44:17.952 3095-3095/edu.washington.lbc546.activityspy D/OpenGLRenderer: Skia GL Pipeline
+2019-04-21 20:44:18.218 3095-3153/edu.washington.lbc546.activityspy I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasWideColorDisplay retrieved: 0
+2019-04-21 20:44:18.219 3095-3153/edu.washington.lbc546.activityspy I/ConfigStore: android::hardware::configstore::V1_0::ISurfaceFlingerConfigs::hasHDRDisplay retrieved: 0
+2019-04-21 20:44:18.219 3095-3153/edu.washington.lbc546.activityspy I/OpenGLRenderer: Initialized EGL, version 1.4
+2019-04-21 20:44:18.219 3095-3153/edu.washington.lbc546.activityspy D/OpenGLRenderer: Swap behavior 1
+2019-04-21 20:44:18.219 3095-3153/edu.washington.lbc546.activityspy W/OpenGLRenderer: Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2019-04-21 20:44:18.219 3095-3153/edu.washington.lbc546.activityspy D/OpenGLRenderer: Swap behavior 0
+2019-04-21 20:44:18.861 3095-3153/edu.washington.lbc546.activityspy D/EGL_emulation: eglCreateContext: 0xdd6051e0: maj 3 min 1 rcv 4
+2019-04-21 20:44:19.576 3095-3153/edu.washington.lbc546.activityspy D/EGL_emulation: eglMakeCurrent: 0xdd6051e0: ver 3 1 (tinfo 0xdd603640)
+2019-04-21 20:44:19.584 3095-3153/edu.washington.lbc546.activityspy E/eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+2019-04-21 20:44:19.584 3095-3153/edu.washington.lbc546.activityspy E/eglCodecCommon: glUtilsParamSize: unknow param 0x000082da
+2019-04-21 20:44:19.988 3095-3153/edu.washington.lbc546.activityspy D/EGL_emulation: eglMakeCurrent: 0xdd6051e0: ver 3 1 (tinfo 0xdd603640)
+2019-04-21 20:45:03.792 3095-3153/edu.washington.lbc546.activityspy D/EGL_emulation: eglMakeCurrent: 0xdd6051e0: ver 3 1 (tinfo 0xdd603640)
+2019-04-21 20:45:03.999 3095-3095/edu.washington.lbc546.activityspy E/MainActivity: We're going down, Captain!
